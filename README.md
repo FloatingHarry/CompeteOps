@@ -49,11 +49,11 @@ CompeteOps turns market signals into evidence-grounded competitive battlecards.
 
 ### 首页
 
-![CompeteOps Home](docs/screenshots/01-home.png)
+![CompeteOps Home](docs/screenshots/home-page.png)
 
 ### Discovery Agent：竞品发现与市场地图
 
-![Discovery Map](docs/screenshots/02-discovery-map.png)
+![Discovery Map](docs/screenshots/discovery-agent-map.png)
 
 ### Competitive Analyst：能力、价格和用户信号分析
 
